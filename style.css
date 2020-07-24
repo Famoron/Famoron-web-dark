@@ -68,6 +68,10 @@ body {
   padding-bottom: 8%;
 }
 
+#clients {
+  padding-bottom: 8%;
+}
+
 
 #terms-of-use {
   text-align: center;
@@ -346,6 +350,7 @@ body {
   cursor: pointer;
   outline: none;
   padding: 10px 20px;
+  
   }
 
 .button:hover {
