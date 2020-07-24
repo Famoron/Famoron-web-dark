@@ -27,6 +27,7 @@ body {
   
   @media (max-width: 767px) {
     #home {
+      margin-top: 40px;
       text-align: center;
     }
   }
@@ -68,10 +69,15 @@ body {
   padding-bottom: 8%;
 }
 
-#clients {
+#client {
   padding-bottom: 8%;
 }
 
+@media (max-width: 767px) {
+  #client {
+    padding-bottom: 8%;
+  }
+}
 
 #terms-of-use {
   text-align: center;
@@ -420,6 +426,7 @@ body {
 .connect {
   text-align: center;
   color: #ffffff;
+  
 }
 
 
@@ -900,3 +907,4 @@ content: "\f078";
   }
 
 }
+
